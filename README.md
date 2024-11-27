@@ -1,5 +1,5 @@
 ## SimpleDB
 
-![simple-db-logo](.github\assets\logo.png)
+![simple-db-logo](.github/assets/logo.png)
 
 ## ...
